@@ -4594,3 +4594,6 @@ sparte
 mild
 utsetter
 hit
+oftere
+passe
+beklage
